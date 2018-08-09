@@ -1,0 +1,4 @@
+PyMySQL
+pandas
+sqlalchemy
+BeautifulSoup4

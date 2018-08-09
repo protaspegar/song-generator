@@ -1,0 +1,8 @@
+PyMySQL
+sqlalchemy
+scipy
+tensorflow
+keras
+matplotlib
+pandas
+h5py
