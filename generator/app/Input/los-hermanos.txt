@@ -470,22 +470,6 @@ Canto para mim qualquer coisa assim sobre você
 Que explique a minha paz
 Tristeza nunca mais
 
-"Cher Antoine,
-
-Je suis vraiment desolé mais je ne peux pas partir avec toi.
-Du 20 au 24 je dois travailler, j'ai 4 jour, 4 jour de congé.
-
-Je vais à la campagne. Je voyage en train
-pour les montagnes, c'est un drôle de chemin!
-
-Je vais à la plage avec des amis. Je vais faire du sport,et apres
-je vais faire du ski!"
-
-- Feito pra mim, bom pra você. Deixa mudar e confundir!
-
-- Deixa de lado o que se diz. Tem no mercado, é só pedir!...
-
-- Me faz chorar... e é feito pra rir.
 
 Amor sem palavras
 Cinema mudo
@@ -1079,63 +1063,6 @@ Diga que volte logo que sinto saudades que morro de dor
 
 Volta minha amada Gabriela, Gabriela
 
-La grande démance Belle et douce La Fille d'Ipanema se pousse
-Sur les rivages, Et toute la plage verte..
-Elle marche comme une algue... Portée sur l'aile d'une vague...
-Jusqu'au rivage, Et toute la plage verte..
-
-Ah, porque eu tô tão sozinho
-Ah, porque tudo é tão triste
-Ah, a beleza que existe
-A beleza que não é só minha
-Que também passa sozinha
-
-Ah, se ela soubesse - Si elle marche, Si elle danse
-O mundo inteirinho - Mais toute la plage verte
-E fica mais lindo - Ne voit que la mer
-Nul ne sait ce qu'elle pense - Que quando ela passa
-Sur le rivage - Se enche de graça
-Et toute la plage verte - Por causa do amor
-Por causa do amor..
-Ne voit que la mer..
-
-Coletanea "Superfantástico"
-Ói nós aqui, Ói nós aqui,
-Hollywood fica ali bem perto,
-só não vê quem tem um olho aberto
-
-Ói nós aqui, Ói nós aqui,
-Hollywood é um sonho de cenário,
-Vi um pau-de-arara milionário
-
-E eu que nem sonhava conhecer o tal Recife,
-Pobre saltimbanco trapalhão.
-Hoje sou mocinho, sou vizinho do xerife,
-dou rabo-de-arraia em tubarão
-
-Ói nós aqui, Ói nós aqui,
-Tem de tudo nessa Hollywood,
-Vi um índio cheio de saúde
-
-Ói nós aqui, Ói nós aqui,
-How do you do?
-Caruaru, I wanna see piripipi. Ói nós aqui
-
-Ói nós aqui, Ói nós aqui,
-Camelôs, malucos e engraxates,
-Aproveitem enquanto o sonho é grátis
-
-Quem há de negar que é bom dançar, que a vida é bela,
-neste fabuloso Xanadu.
-Eu só tenho medo de amanhã cair da tela
-e acordar na casa do Bubu
-
-Ói nós aqui, Ói nós aqui,
-How do you do?
-Banabuiú, I wanna buy o Paraguai.
-Hollywood and me
-Ói nós aqui (vixe!)
-
 Por onde vou guiar
 O olhar que não enxerga mais
 Dá-me luz, ó Deus do tempo
@@ -1143,46 +1070,6 @@ Dá-me luz, ó Deus do tempo
 Nesse momento menor
 Pr'eu saber seu redor
 
-A gente quer ver
-Horizonte distante
-
-A gente quer ver
-Horizonte distante
-
-Aprumar
-
-Através eu vi
-Só o amor é luz
-E há de estar daqui
-Até alto e amanhã
-Quem fica com o tempo
-Eu faço dele meu
-E não me falta o passo, coração
-E não me falta o passo, coração
-
-Avante
-
-A gente quer ver
-Horizonte distante
-
-A gente quer ver
-Horizonte distante
-
-Aprumar
-
-Onde vai
-Onde vai
-Onde vem, vem, vem
-
-É o trem
-E eu aqui
-Nessa janela, nessa janela
-
-Aqui vai o trem, aqui vem a curva
-O sol a se pôr
-Vai, vai, vai
-
-Volta janela
 
 Ó, minha menina bonitinha, eu te dei
 Todo o meu carinho, meu aninho, eu te dei
@@ -1629,7 +1516,7 @@ O primeiro a prever
 E poder desistir
 Do que for dar errado?
 
-Ahhh
+Ah
 Ora, se não sou eu
 Quem mais vai decidir
 O que é bom pra mim?
@@ -2017,7 +1904,7 @@ Era provar pra todo o mundo
 Que eu não precisava
 Provar nada p'ra ninguém.
 Me fiz em mil pedaços
-P'ra você juntar
+Pra você juntar
 E queria sempre achar
 Explicação p'ro que eu sentia.
 Como um anjo caído
@@ -2099,7 +1986,7 @@ Que eu te olhando via uma outra mulher
 E agora o que sobrou
 Um filme no close pro fim
 
-Num retrato-falado eu fichado
+Num retrato falado eu fichado
 Exposto em diagnóstico
 Especialistas analisam e sentenciam
 Oh, não!
@@ -2306,8 +2193,7 @@ Tempo amigo seja legal
 Conto contigo pela madrugada
 Só me derrube no final
 
-Ah-ah-ah ah-ah
-Ah-ah-ah ah-ah
+
 
 Tempo, tempo mano velho, falta um tanto ainda eu sei
 Pra você correr macio
@@ -2319,11 +2205,8 @@ Vai, vai, vai, vai, vai, vai
 
 Tempo amigo seja legal
 Conto contigo pela madrugada
-Só me derrube no final... oh-oh... oh-oh ah...
+Só me derrube no final... oh oh... oh oh ah...
 
-Uh... uh... ah au
-Uh... uh... ah au
-Vai, vai, vai, vai, vai, vai
 
 Senta aqui que hoje eu quero te falar
 Não tem mistério, não
@@ -2386,51 +2269,6 @@ Sempre quis
 Adeus amor, eu quero ser feliz
 Com meu coração
 
-Todos os dias quando acordo
-Não tenho mais
-O tempo que passou
-Mas tenho muito tempo
-Temos todo o tempo do mundo...
-
-Todos os dias
-Antes de dormir
-Lembro e esqueço
-Como foi o dia
-Sempre em frente
-Não temos tempo a perder...
-
-Nosso suor sagrado
-É bem mais belo
-Que esse sangue amargo
-E tão sério
-E selvagem! Selvagem!
-Selvagem...
-
-Veja o sol
-Dessa manhã tão cinza
-A tempestade que chega
-É da cor dos teus olhos
-Castanhos...
-
-Então me abraça forte
-E diz mais uma vez
-Que já estamos
-Distantes de tudo
-Temos nosso próprio tempo
-Temos nosso próprio tempo
-Temos nosso próprio tempo...
-
-Não tenho medo do escuro
-Mas deixe as luzes
-Acesas agora
-E o que foi escondido
-É o que se escondeu
-E o que foi prometido
-Ninguém prometeu
-Nem foi tempo perdido
-
-Somos tão jovens...
-Tão jovens! Tão jovens...
 
 Não vou mais te perdoar, você foi longe demais
 Meu amor, não sou tão só assim
@@ -2671,9 +2509,9 @@ Tú, tú, tú
 
 Deixa o sal do mar,
 Deixe tocar aquela canção.
-Uma ve..êz mais
-Uma ve..êz mais
-Uma vê..ê..ê...ê..êz Mais
+Uma vez mais
+Uma vez mais
+Uma vez mais
 
 Tatibitate,
 Trate-me, trate

@@ -3,6 +3,7 @@
 A machine learning experiment to generate song lyrics
 
 For now, it generates only lyrics (no melody) and only a very poor lyric :-(
+It is mainly replicating an existing lyric without the less used words
 
 There are a few things to improve:
 - Find a better NN model

@@ -15,7 +15,9 @@ class TextProcessor:
 
 
     def ProcessRawInput(self, rawInputText):
-        inputText = self.AddSpaceToLineBreak(rawInputText)
+        inputText = rawInputText.lower() #convert everything to lower case
+        inputText = self.ReplaceAccentuation(inputText)
+        inputText = self.AddSpaceToLineBreak(inputText)
 
         self.tokenizer.fit_on_texts([inputText])
 
@@ -27,13 +29,35 @@ class TextProcessor:
 
         print("Total words: ", len(self.sequence))
         print("Total vocabulary: ", len(self.tokenizer.word_counts))
-        print("Como é que vai você?: ", self.tokenizer.texts_to_sequences(["Como é que vai você?"]))
+        print("Como é que vai você: ", self.tokenizer.texts_to_sequences(["Como é que vai você"]))
 
         return self.sequence, self.dictionary
 
+    def ReplaceAccentuation(self, inputText):
+        inputText = inputText.replace("à", "a")
+        inputText = inputText.replace("ã", "a")
+        inputText = inputText.replace("á", "a")
+        inputText = inputText.replace("â", "a")
+
+        inputText = inputText.replace("ç", "c")
+
+        inputText = inputText.replace("é", "eh") #This is special for portuguese language
+        inputText = inputText.replace("è", "e") 
+        inputText = inputText.replace("ê", "e") 
+
+        inputText = inputText.replace("í", "i")
+        inputText = inputText.replace("ì", "i")
+
+        inputText = inputText.replace("ó", "o")
+        inputText = inputText.replace("ô", "o")
+
+        inputText = inputText.replace("ú", "u")
+        inputText = inputText.replace("ù", "u")
+
+        return inputText
 
     def AddSpaceToLineBreak(self, rawInputText):
-        # This method is needed becaus the tokenizer uses an empty space to split the words
+        # This method is needed because the tokenizer uses an empty space to split the words
         inputText = rawInputText.replace("\n", " \n ")
         return inputText
 

@@ -67,11 +67,13 @@ class Generator:
         vocab_size = len(self.dictionary) + 1
 
         model = Sequential()
-        model.add(Embedding(vocab_size, self.dataX.shape[0], input_length=self.dataX.shape[1]))
+        model.add(Embedding(vocab_size, 100, input_length=self.dataX.shape[1])) #using 100 as a fixed embedding vector size
+        #model.add(Embedding(vocab_size, self.dataX.shape[0], input_length=self.dataX.shape[1]))
         model.add(LSTM(100, return_sequences=True))
+        model.add(Dropout(0.2))
         model.add(LSTM(100))
         model.add(Dropout(0.2))
-        model.add(Dense(100, activation='relu'))
+        model.add(Dense(100, activation='relu')) #do we need this relu layer?
         model.add(Dense(self.dataY.shape[1], activation='softmax'))
         print(model.summary())
 

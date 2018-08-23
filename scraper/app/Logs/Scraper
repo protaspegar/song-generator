@@ -1,262 +1,107 @@
-2018-03-05 19:35:29,288 - scraper - INFO - Starting scraper...
-2018-03-05 19:35:29,289 - scraper - INFO - Loading Artist page...
-2018-03-05 19:35:31,503 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:31,506 - scraper - INFO - 102 songs found
-2018-03-05 19:35:33,386 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:35,335 - scraper - INFO - Loaded: A Outra - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:37,260 - scraper - INFO - Loaded: À Palo Seco - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:39,297 - scraper - INFO - Loaded: A Turma do Funil - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:41,190 - scraper - INFO - Loaded: Adeus Você - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:43,033 - scraper - INFO - Loaded: Ainda É Cedo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:44,988 - scraper - INFO - Loaded: Além do Que Se Vê - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:46,998 - scraper - INFO - Loaded: Aline - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:48,957 - scraper - INFO - Loaded: Anna Júlia - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:50,929 - scraper - INFO - Loaded: Assim Será - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:52,952 - scraper - INFO - Loaded: Azedume - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:54,866 - scraper - INFO - Loaded: Bárbara - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:56,706 - scraper - INFO - Loaded: Bom Dia - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:35:58,612 - scraper - INFO - Loaded: Cadê Teu Suín-? - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:00,434 - scraper - INFO - Loaded: Cara Estranho - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:02,312 - scraper - INFO - Loaded: Cara Valente - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:04,280 - scraper - INFO - Loaded: Carinhoso - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:06,160 - scraper - INFO - Loaded: Carol - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:08,102 - scraper - INFO - Loaded: Casa Pré-fabricada - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:10,087 - scraper - INFO - Loaded: Cher Antoine - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:12,037 - scraper - INFO - Loaded: Cinema Mudo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:14,066 - scraper - INFO - Loaded: Ciúme - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:16,021 - scraper - INFO - Loaded: Condicional - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:17,874 - scraper - INFO - Loaded: Conversa de Botas Batidas - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:20,128 - scraper - INFO - Loaded: De Onde Vem a Calma - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:22,096 - scraper - INFO - Loaded: Deixa Estar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:24,074 - scraper - INFO - Loaded: Deixa O Verão - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:25,950 - scraper - INFO - Loaded: Desce - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:28,907 - scraper - INFO - Loaded: Descoberta - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:30,837 - scraper - INFO - Loaded: Despedida - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:32,738 - scraper - INFO - Loaded: Do Lado de Dentro - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:34,618 - scraper - INFO - Loaded: Do Sétimo Andar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:36,507 - scraper - INFO - Loaded: Dois Barcos - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:38,519 - scraper - INFO - Loaded: Dois Em Um - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:40,407 - scraper - INFO - Loaded: É De Lágrima - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:42,285 - scraper - INFO - Loaded: Esquadros - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:44,207 - scraper - INFO - Loaded: Eu Vou Tirar Você Desse Lugar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:46,170 - scraper - INFO - Loaded: Evaporar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:48,107 - scraper - INFO - Loaded: Fez-se Mar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:50,080 - scraper - INFO - Loaded: Fingi Na Hora Rir - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:51,880 - scraper - INFO - Loaded: Gabriela - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:53,768 - scraper - INFO - Loaded: Garota de Ipanema - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:55,747 - scraper - INFO - Loaded: Hollywood - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:57,630 - scraper - INFO - Loaded: Horizonte Distante - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:36:59,487 - scraper - INFO - Loaded: Janela - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:01,353 - scraper - INFO - Loaded: Lágrimas Sofridas - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:03,295 - scraper - INFO - Loaded: Last Nite - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:05,112 - scraper - INFO - Loaded: Liberdade - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:07,078 - scraper - INFO - Loaded: Lisbela - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:08,903 - scraper - INFO - Loaded: Mais Uma Canção - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:10,793 - scraper - INFO - Loaded: Mais Uma Canção / Pra Ver Se Cola (Pot-Pourri) - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:12,728 - scraper - INFO - Loaded: Maluco Beleza - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:14,500 - scraper - INFO - Loaded: Marambaia - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:16,331 - scraper - INFO - Loaded: Maresia - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:18,229 - scraper - INFO - Loaded: Máscara Negra - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:20,075 - scraper - INFO - Loaded: Melissa - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:21,915 - scraper - INFO - Loaded: Morena - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:23,807 - scraper - INFO - Loaded: Nunca Diga - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:25,760 - scraper - INFO - Loaded: O Mundo aos Meus Pés - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:27,675 - scraper - INFO - Loaded: O Pouco Que Sobrou - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:29,523 - scraper - INFO - Loaded: O Ritmo da Chuva - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:31,462 - scraper - INFO - Loaded: O Velho e o Moço - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:33,344 - scraper - INFO - Loaded: O Vencedor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:35,280 - scraper - INFO - Loaded: O Vento - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:37,171 - scraper - INFO - Loaded: Onze Dias - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:39,054 - scraper - INFO - Loaded: Os Pássaros - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:40,907 - scraper - INFO - Loaded: Outro Alguém - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:42,761 - scraper - INFO - Loaded: Paquetá - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:44,699 - scraper - INFO - Loaded: Passeio - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:46,688 - scraper - INFO - Loaded: Perdoa - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:48,633 - scraper - INFO - Loaded: Pierrot - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:50,465 - scraper - INFO - Loaded: Pois É - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:52,289 - scraper - INFO - Loaded: Pra Falar de Amor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:54,134 - scraper - INFO - Loaded: Pra Ver Se Cola - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:56,085 - scraper - INFO - Loaded: Primavera - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:57,907 - scraper - INFO - Loaded: Primeiro Andar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:37:59,766 - scraper - INFO - Loaded: Quando Eu Digo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:01,616 - scraper - INFO - Loaded: Quase Sem Querer - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:03,385 - scraper - INFO - Loaded: Quem Sabe - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:05,445 - scraper - INFO - Loaded: Retrato Pra Iaiá - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:07,331 - scraper - INFO - Loaded: Romeu e Julieta - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:09,217 - scraper - INFO - Loaded: Sábado Morto - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:11,052 - scraper - INFO - Loaded: Samba a Dois - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:12,878 - scraper - INFO - Loaded: Santa Chuva - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:14,720 - scraper - INFO - Loaded: Sapato Novo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:16,587 - scraper - INFO - Loaded: Sem Ter Você - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:18,422 - scraper - INFO - Loaded: Sentimental - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:20,295 - scraper - INFO - Loaded: Sobre o Tempo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:22,211 - scraper - INFO - Loaded: Tá Bom - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:24,019 - scraper - INFO - Loaded: Tanto Amor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:25,993 - scraper - INFO - Loaded: Tão Sozinho - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:27,862 - scraper - INFO - Loaded: Tempo Perdido - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:29,711 - scraper - INFO - Loaded: Tenha Dó - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:31,643 - scraper - INFO - Loaded: Todo Carnaval Tem Seu Fim - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:33,506 - scraper - INFO - Loaded: Traumas - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:35,336 - scraper - INFO - Loaded: Último Romance - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:37,583 - scraper - INFO - Loaded: Um Milhão - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:39,533 - scraper - INFO - Loaded: Um Par - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:41,670 - scraper - INFO - Loaded: Uma Brasileira - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:44,259 - scraper - INFO - Loaded: Vai Embora - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:47,578 - scraper - INFO - Loaded: Vambora - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:50,526 - scraper - INFO - Loaded: Veja Bem, Meu Bem - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:38:50,528 - scraper - INFO - Scraper finished!
-2018-03-05 19:40:12,650 - scraper - INFO - Starting scraper...
-2018-03-05 19:40:12,650 - scraper - INFO - Loading Artist page...
-2018-03-05 19:40:14,729 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:40:14,732 - scraper - INFO - 102 songs found
-2018-03-05 19:40:16,618 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:40:16,620 - scraper - INFO - Scraper finished!
-2018-03-05 19:41:24,792 - scraper - INFO - Starting scraper...
-2018-03-05 19:41:24,792 - scraper - INFO - Loading Artist page...
-2018-03-05 19:41:26,804 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:41:26,807 - scraper - INFO - 102 songs found
-2018-03-05 19:41:28,779 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 19:41:28,782 - scraper - INFO - Scraper finished!
-2018-03-05 20:16:10,092 - scraper - INFO - Starting scraper...
-2018-03-05 20:16:10,092 - scraper - INFO - Loading Artist page...
-2018-03-05 20:16:10,352 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:16:10,355 - scraper - INFO - 102 songs found
-2018-03-05 20:16:10,536 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:16:10,538 - scraper - INFO - Scraper finished!
-2018-03-05 20:16:44,987 - scraper - INFO - Starting scraper...
-2018-03-05 20:16:44,987 - scraper - INFO - Loading Artist page...
-2018-03-05 20:16:45,212 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:16:45,215 - scraper - INFO - 102 songs found
-2018-03-05 20:16:45,403 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:16:45,405 - scraper - INFO - Scraper finished!
-2018-03-05 20:17:00,188 - scraper - INFO - Starting scraper...
-2018-03-05 20:17:00,189 - scraper - INFO - Loading Artist page...
-2018-03-05 20:17:00,398 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:17:00,401 - scraper - INFO - 102 songs found
-2018-03-05 20:17:00,619 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:17:00,621 - scraper - INFO - Scraper finished!
-2018-03-05 20:18:21,943 - scraper - INFO - Starting scraper...
-2018-03-05 20:18:21,943 - scraper - INFO - Loading Artist page...
-2018-03-05 20:18:22,168 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:18:22,171 - scraper - INFO - 102 songs found
-2018-03-05 20:18:22,359 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:18:22,361 - scraper - INFO - Scraper finished!
-2018-03-05 20:19:00,198 - scraper - INFO - Starting scraper...
-2018-03-05 20:19:00,199 - scraper - INFO - Loading Artist page...
-2018-03-05 20:19:00,440 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:00,444 - scraper - INFO - 102 songs found
-2018-03-05 20:19:00,633 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:00,635 - scraper - INFO - Scraper finished!
-2018-03-05 20:19:33,708 - scraper - INFO - Starting scraper...
-2018-03-05 20:19:33,709 - scraper - INFO - Loading Artist page...
-2018-03-05 20:19:33,945 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:33,948 - scraper - INFO - 102 songs found
-2018-03-05 20:19:34,138 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:34,140 - scraper - INFO - Scraper finished!
-2018-03-05 20:19:54,039 - scraper - INFO - Starting scraper...
-2018-03-05 20:19:54,039 - scraper - INFO - Loading Artist page...
-2018-03-05 20:19:54,271 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:54,274 - scraper - INFO - 102 songs found
-2018-03-05 20:19:54,502 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:54,731 - scraper - INFO - Loaded: A Outra - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:55,014 - scraper - INFO - Loaded: À Palo Seco - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:55,234 - scraper - INFO - Loaded: A Turma do Funil - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:55,464 - scraper - INFO - Loaded: Adeus Você - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:55,699 - scraper - INFO - Loaded: Ainda É Cedo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:55,886 - scraper - INFO - Loaded: Além do Que Se Vê - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:56,113 - scraper - INFO - Loaded: Aline - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:56,314 - scraper - INFO - Loaded: Anna Júlia - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:56,541 - scraper - INFO - Loaded: Assim Será - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:56,783 - scraper - INFO - Loaded: Azedume - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:57,031 - scraper - INFO - Loaded: Bárbara - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:57,239 - scraper - INFO - Loaded: Bom Dia - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:57,424 - scraper - INFO - Loaded: Cadê Teu Suín-? - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:57,611 - scraper - INFO - Loaded: Cara Estranho - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:57,815 - scraper - INFO - Loaded: Cara Valente - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:58,039 - scraper - INFO - Loaded: Carinhoso - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:58,257 - scraper - INFO - Loaded: Carol - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:58,439 - scraper - INFO - Loaded: Casa Pré-fabricada - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:58,622 - scraper - INFO - Loaded: Cher Antoine - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:58,837 - scraper - INFO - Loaded: Cinema Mudo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:59,052 - scraper - INFO - Loaded: Ciúme - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:59,237 - scraper - INFO - Loaded: Condicional - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:59,429 - scraper - INFO - Loaded: Conversa de Botas Batidas - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:59,629 - scraper - INFO - Loaded: De Onde Vem a Calma - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:19:59,814 - scraper - INFO - Loaded: Deixa Estar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:00,077 - scraper - INFO - Loaded: Deixa O Verão - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:00,295 - scraper - INFO - Loaded: Desce - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:00,519 - scraper - INFO - Loaded: Descoberta - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:00,734 - scraper - INFO - Loaded: Despedida - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:00,947 - scraper - INFO - Loaded: Do Lado de Dentro - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:01,178 - scraper - INFO - Loaded: Do Sétimo Andar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:01,370 - scraper - INFO - Loaded: Dois Barcos - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:01,613 - scraper - INFO - Loaded: Dois Em Um - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:01,837 - scraper - INFO - Loaded: É De Lágrima - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:02,056 - scraper - INFO - Loaded: Esquadros - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:02,275 - scraper - INFO - Loaded: Eu Vou Tirar Você Desse Lugar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:02,516 - scraper - INFO - Loaded: Evaporar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:02,723 - scraper - INFO - Loaded: Fez-se Mar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:02,972 - scraper - INFO - Loaded: Fingi Na Hora Rir - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:03,202 - scraper - INFO - Loaded: Gabriela - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:03,453 - scraper - INFO - Loaded: Garota de Ipanema - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:03,725 - scraper - INFO - Loaded: Hollywood - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:03,951 - scraper - INFO - Loaded: Horizonte Distante - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:04,169 - scraper - INFO - Loaded: Janela - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:04,357 - scraper - INFO - Loaded: Lágrimas Sofridas - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:04,578 - scraper - INFO - Loaded: Last Nite - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:04,794 - scraper - INFO - Loaded: Liberdade - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:04,978 - scraper - INFO - Loaded: Lisbela - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:05,189 - scraper - INFO - Loaded: Mais Uma Canção - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:05,406 - scraper - INFO - Loaded: Mais Uma Canção / Pra Ver Se Cola (Pot-Pourri) - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:05,627 - scraper - INFO - Loaded: Maluco Beleza - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:05,846 - scraper - INFO - Loaded: Marambaia - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:06,098 - scraper - INFO - Loaded: Maresia - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:06,313 - scraper - INFO - Loaded: Máscara Negra - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:06,554 - scraper - INFO - Loaded: Melissa - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:06,754 - scraper - INFO - Loaded: Morena - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:06,964 - scraper - INFO - Loaded: Nunca Diga - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:07,239 - scraper - INFO - Loaded: O Mundo aos Meus Pés - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:07,503 - scraper - INFO - Loaded: O Pouco Que Sobrou - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:07,710 - scraper - INFO - Loaded: O Ritmo da Chuva - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:07,912 - scraper - INFO - Loaded: O Velho e o Moço - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:08,108 - scraper - INFO - Loaded: O Vencedor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:08,302 - scraper - INFO - Loaded: O Vento - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:08,527 - scraper - INFO - Loaded: Onze Dias - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:08,760 - scraper - INFO - Loaded: Os Pássaros - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:09,122 - scraper - INFO - Loaded: Outro Alguém - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:09,315 - scraper - INFO - Loaded: Paquetá - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:09,555 - scraper - INFO - Loaded: Passeio - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:09,852 - scraper - INFO - Loaded: Perdoa - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:10,065 - scraper - INFO - Loaded: Pierrot - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:10,251 - scraper - INFO - Loaded: Pois É - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:10,464 - scraper - INFO - Loaded: Pra Falar de Amor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:10,742 - scraper - INFO - Loaded: Pra Ver Se Cola - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:10,967 - scraper - INFO - Loaded: Primavera - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:11,148 - scraper - INFO - Loaded: Primeiro Andar - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:11,369 - scraper - INFO - Loaded: Quando Eu Digo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:11,593 - scraper - INFO - Loaded: Quase Sem Querer - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:11,778 - scraper - INFO - Loaded: Quem Sabe - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:11,973 - scraper - INFO - Loaded: Retrato Pra Iaiá - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:12,179 - scraper - INFO - Loaded: Romeu e Julieta - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:12,408 - scraper - INFO - Loaded: Sábado Morto - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:12,601 - scraper - INFO - Loaded: Samba a Dois - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:12,820 - scraper - INFO - Loaded: Santa Chuva - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:13,070 - scraper - INFO - Loaded: Sapato Novo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:13,280 - scraper - INFO - Loaded: Sem Ter Você - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:13,475 - scraper - INFO - Loaded: Sentimental - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:13,687 - scraper - INFO - Loaded: Sobre o Tempo - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:13,882 - scraper - INFO - Loaded: Tá Bom - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:14,096 - scraper - INFO - Loaded: Tanto Amor - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:14,365 - scraper - INFO - Loaded: Tão Sozinho - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:14,600 - scraper - INFO - Loaded: Tempo Perdido - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:14,820 - scraper - INFO - Loaded: Tenha Dó - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:15,047 - scraper - INFO - Loaded: Todo Carnaval Tem Seu Fim - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:15,283 - scraper - INFO - Loaded: Traumas - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:15,466 - scraper - INFO - Loaded: Último Romance - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:15,689 - scraper - INFO - Loaded: Um Milhão - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:15,907 - scraper - INFO - Loaded: Um Par - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:16,122 - scraper - INFO - Loaded: Uma Brasileira - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:16,351 - scraper - INFO - Loaded: Vai Embora - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:16,897 - scraper - INFO - Loaded: Vambora - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:17,080 - scraper - INFO - Loaded: Veja Bem, Meu Bem - Los Hermanos - LETRAS.MUS.BR
-2018-03-05 20:20:17,082 - scraper - INFO - Scraper finished!
+2018-08-22 20:17:26,861 - scraper - INFO - Starting scraper...
+2018-08-22 20:17:26,863 - scraper - INFO - Loading Artist page...
+2018-08-22 20:17:27,898 - scraper - INFO - Loaded: Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:27,902 - scraper - INFO - 102 songs found
+2018-08-22 20:17:28,729 - scraper - INFO - Loaded: A Flor - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:29,623 - scraper - INFO - Loaded: A Outra - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:30,394 - scraper - INFO - Loaded: � Palo Seco - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:31,155 - scraper - INFO - Loaded: A Turma do Funil - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:31,934 - scraper - INFO - Loaded: Adeus Voc� - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:32,722 - scraper - INFO - Loaded: Ainda � Cedo - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:33,464 - scraper - INFO - Loaded: Al�m do Que Se V� - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:34,255 - scraper - INFO - Loaded: Aline - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:35,015 - scraper - INFO - Loaded: Anna J�lia - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:35,799 - scraper - INFO - Loaded: Assim Ser� - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:36,651 - scraper - INFO - Loaded: Azedume - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:37,513 - scraper - INFO - Loaded: B�rbara - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:38,431 - scraper - INFO - Loaded: Bom Dia - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:39,214 - scraper - INFO - Loaded: Cad� Teu Su�n-? - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:39,949 - scraper - INFO - Loaded: Cara Estranho - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:40,725 - scraper - INFO - Loaded: Cara Valente - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:41,474 - scraper - INFO - Loaded: Carinhoso - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:42,245 - scraper - INFO - Loaded: Carol - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:42,974 - scraper - INFO - Loaded: Casa Pr�-fabricada - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:43,840 - scraper - INFO - Loaded: Cher Antoine - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:44,753 - scraper - INFO - Loaded: Cinema Mudo - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:45,655 - scraper - INFO - Loaded: Ci�me - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:46,501 - scraper - INFO - Loaded: Condicional - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:47,490 - scraper - INFO - Loaded: Conversa de Botas Batidas - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:48,357 - scraper - INFO - Loaded: De Onde Vem a Calma - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:48,955 - scraper - INFO - Loaded: Deixa Estar - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:49,551 - scraper - INFO - Loaded: Deixa O Ver�o - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:50,200 - scraper - INFO - Loaded: Desce - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:50,880 - scraper - INFO - Loaded: Descoberta - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:51,714 - scraper - INFO - Loaded: Despedida - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:52,582 - scraper - INFO - Loaded: Do Lado de Dentro - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:53,304 - scraper - INFO - Loaded: Do S�timo Andar - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:54,065 - scraper - INFO - Loaded: Dois Barcos - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:55,039 - scraper - INFO - Loaded: Dois Em Um - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:55,858 - scraper - INFO - Loaded: � De L�grima - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:56,404 - scraper - INFO - Loaded: Esquadros - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:56,603 - scraper - INFO - Loaded: Eu Vou Tirar Voc� Desse Lugar - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:56,838 - scraper - INFO - Loaded: Evaporar - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:57,065 - scraper - INFO - Loaded: Fez-se Mar - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:57,483 - scraper - INFO - Loaded: Fingi Na Hora Rir - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:57,903 - scraper - INFO - Loaded: Gabriela - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:58,133 - scraper - INFO - Loaded: Garota de Ipanema - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:58,380 - scraper - INFO - Loaded: Hollywood - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:58,619 - scraper - INFO - Loaded: Horizonte Distante - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:58,854 - scraper - INFO - Loaded: Janela - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:59,080 - scraper - INFO - Loaded: L�grimas Sofridas - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:59,307 - scraper - INFO - Loaded: Last Nite - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:59,581 - scraper - INFO - Loaded: Liberdade - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:17:59,828 - scraper - INFO - Loaded: Lisbela - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:00,149 - scraper - INFO - Loaded: Mais Uma Can��o - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:00,428 - scraper - INFO - Loaded: Mais Uma Can��o / Pra Ver Se Cola (Pot-Pourri) - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:00,681 - scraper - INFO - Loaded: Maluco Beleza - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:00,973 - scraper - INFO - Loaded: Marambaia - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:01,490 - scraper - INFO - Loaded: Maresia - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:01,927 - scraper - INFO - Loaded: M�scara Negra - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:02,397 - scraper - INFO - Loaded: Melissa - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:02,853 - scraper - INFO - Loaded: Morena - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:03,219 - scraper - INFO - Loaded: Nunca Diga - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:03,609 - scraper - INFO - Loaded: O Mundo aos Meus P�s - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:04,027 - scraper - INFO - Loaded: O Pouco Que Sobrou - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:04,478 - scraper - INFO - Loaded: O Ritmo da Chuva - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:04,911 - scraper - INFO - Loaded: O Velho e o Mo�o - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:05,342 - scraper - INFO - Loaded: O Vencedor - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:05,825 - scraper - INFO - Loaded: O Vento - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:06,448 - scraper - INFO - Loaded: Onze Dias - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:07,025 - scraper - INFO - Loaded: Os P�ssaros - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:07,734 - scraper - INFO - Loaded: Outro Algu�m - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:08,309 - scraper - INFO - Loaded: Paquet� - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:08,918 - scraper - INFO - Loaded: Passeio - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:09,557 - scraper - INFO - Loaded: Perdoa - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:10,128 - scraper - INFO - Loaded: Pierrot - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:10,800 - scraper - INFO - Loaded: Pois � - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:11,412 - scraper - INFO - Loaded: Pra Falar de Amor - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:12,051 - scraper - INFO - Loaded: Pra Ver Se Cola - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:12,714 - scraper - INFO - Loaded: Primavera - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:13,355 - scraper - INFO - Loaded: Primeiro Andar - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:14,051 - scraper - INFO - Loaded: Quando Eu Digo - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:14,721 - scraper - INFO - Loaded: Quase Sem Querer - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:15,406 - scraper - INFO - Loaded: Quem Sabe - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:16,139 - scraper - INFO - Loaded: Retrato Pra Iai� - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:16,946 - scraper - INFO - Loaded: Romeu e Julieta - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:17,664 - scraper - INFO - Loaded: S�bado Morto - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:18,400 - scraper - INFO - Loaded: Samba a Dois - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:19,222 - scraper - INFO - Loaded: Santa Chuva - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:19,974 - scraper - INFO - Loaded: Sapato Novo - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:20,785 - scraper - INFO - Loaded: Sem Ter Voc� - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:21,654 - scraper - INFO - Loaded: Sentimental - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:22,628 - scraper - INFO - Loaded: Sobre o Tempo - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:23,425 - scraper - INFO - Loaded: T� Bom - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:24,116 - scraper - INFO - Loaded: Tanto Amor - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:24,944 - scraper - INFO - Loaded: T�o Sozinho - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:25,659 - scraper - INFO - Loaded: Tempo Perdido - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:26,413 - scraper - INFO - Loaded: Tenha D� - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:27,274 - scraper - INFO - Loaded: Todo Carnaval Tem Seu Fim - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:28,074 - scraper - INFO - Loaded: Traumas - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:28,805 - scraper - INFO - Loaded: �ltimo Romance - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:29,509 - scraper - INFO - Loaded: Um Milh�o - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:30,210 - scraper - INFO - Loaded: Um Par - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:31,021 - scraper - INFO - Loaded: Uma Brasileira - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:31,839 - scraper - INFO - Loaded: Vai Embora - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:32,614 - scraper - INFO - Loaded: Vambora - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:33,405 - scraper - INFO - Loaded: Veja Bem, Meu Bem - Los Hermanos - LETRAS.MUS.BR
+2018-08-22 20:18:33,407 - scraper - INFO - Scraper finished!
