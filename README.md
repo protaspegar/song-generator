@@ -2,13 +2,20 @@
 
 A machine learning experiment to generate song lyrics
 
-For now, it generates only lyrics (no melody) and only a very poor lyric :-(
-It is mainly replicating an existing lyric without the less used words
+For now, it generates only lyrics (no melody).
 
-There are a few things to improve:
-- Find a better NN model
-- Optimize hyperparameters
-- Optmize the word tokenizer
+
+There some few things to improve:
+* Use a smaller seed phrase
+* Optimize hyperparameters
+* Optmize the word tokenizer
+* Try a bigger input file, with songs for more than one artist
+
+Some other things that would be nice to try:
+* A new generator based on Markov Chain
+* Find a way to consider the verse lenght
+* Find a way to consider rhymes
+
 
 
 The project is composed by 2 parts:
@@ -21,6 +28,8 @@ The project is composed by 2 parts:
 ## Scraper
 
 This tool scraps a lyrics web site to extract lyrics from an artist and prepare it to be used by the ML model.
+
+The tool will generate a single text file with all the lyrics found. It is important that you edit the file manually to remove odd stuff and undesired lyrics.
 
 Some references:
 * Source of lyrics: https://www.letras.mus.br

@@ -3,13 +3,15 @@ import numpy
 from keras.preprocessing.text import Tokenizer
 from keras.utils import np_utils
 
+NUM_WORDS_LIMIT = 650
 
 class TextProcessor:
     def __init__(self):
         self.log = logging.getLogger(__name__)
-        self.tokenizer = Tokenizer(num_words=500, filters='!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~\t')
+        self.tokenizer = Tokenizer(num_words=NUM_WORDS_LIMIT, filters='!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~\t')
         self.sequence = []
         self.dictionary = []
+        self.dictionary_limit = NUM_WORDS_LIMIT
         self.inv_dictionary = []
         self.wordsOnInput = 50
 
@@ -20,6 +22,8 @@ class TextProcessor:
         inputText = self.AddSpaceToLineBreak(inputText)
 
         self.tokenizer.fit_on_texts([inputText])
+        self.tokenizer.num_words = NUM_WORDS_LIMIT
+        self.tokenizer.word_index = {e:i for e,i in self.tokenizer.word_index.items() if i <= NUM_WORDS_LIMIT} # <= because tokenizer is 1 indexed
 
         self.sequence = self.tokenizer.texts_to_sequences([inputText])[0]
         #print(self.sequence)
@@ -29,7 +33,8 @@ class TextProcessor:
 
         print("Total words: ", len(self.sequence))
         print("Total vocabulary: ", len(self.tokenizer.word_counts))
-        print("Como é que vai você: ", self.tokenizer.texts_to_sequences(["Como é que vai você"]))
+        print("Relevant vocabulary: ", self.tokenizer.num_words)
+        print("Como eh que vai voce: ", self.tokenizer.texts_to_sequences(["Como eh que vai voce"]))
 
         return self.sequence, self.dictionary
 

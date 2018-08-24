@@ -2,7 +2,7 @@ import logging
 import textprocessor
 import numpy
 from pathlib import Path
-from random import randint
+from random import randint, random
 
 from keras.models import Sequential
 from keras.layers import Embedding
@@ -23,8 +23,9 @@ class Generator:
         self.dataY = None
         self.model = None
 
-        self.epochs = 20 #5
+        self.epochs = 50 #5
         self.batch_size = 128
+        self.generator_randomization = 0.1
         self.modelFilename = "Model/latest_v2.hdf5"
 
 
@@ -44,7 +45,7 @@ class Generator:
     def ReadInputFile(self):
         self.log.info('Reading input file...')
 
-        inputFile = open(self.inputFilePath, "r")
+        inputFile = open(self.inputFilePath, "r", encoding="utf-8")
         content = inputFile.read()
         inputFile.close()
         self.inputRawText = content
@@ -69,12 +70,14 @@ class Generator:
         model = Sequential()
         model.add(Embedding(vocab_size, 100, input_length=self.dataX.shape[1])) #using 100 as a fixed embedding vector size
         #model.add(Embedding(vocab_size, self.dataX.shape[0], input_length=self.dataX.shape[1]))
-        model.add(LSTM(100, return_sequences=True))
+        model.add(LSTM(512, return_sequences=True))
         model.add(Dropout(0.2))
-        model.add(LSTM(100))
+        model.add(LSTM(512))
         model.add(Dropout(0.2))
-        model.add(Dense(100, activation='relu')) #do we need this relu layer?
-        model.add(Dense(self.dataY.shape[1], activation='softmax'))
+        model.add(Dense(100))
+        #model.add(Dense(100, activation='relu')) #do we need this relu layer?
+        model.add(Dense(vocab_size, activation='softmax'))
+        #model.add(Dense(self.dataY.shape[1], activation='softmax'))
         print(model.summary())
 
         model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
@@ -120,7 +123,7 @@ class Generator:
             # x = self.txtProcessor.NormalizeInputData(seedSequence)
             x = numpy.array([seedSequence])
             #print("Input shape: ",x.shape)
-            index = self.model.predict_classes(x, verbose=0)[0]
+            index = self.PredictClass(x) #self.model.predict_classes(x, verbose=0)[0]
             resultWord = self.txtProcessor.ConvertIndexToWord(index)
             generatedText += resultWord + " "
             # print("New: ", index, " - ", resultWord)
@@ -128,13 +131,25 @@ class Generator:
             #print(seedSequence)
             seedSequence = seedSequence[1:len(seedSequence)]
 
+            
+
         print("===== DONE =====")
         print(generatedText)
 
 
-    def ChooseRandomTextSeed(self):
-        seedText = "Como é que vai você?"
+    def PredictClass(self, inputText):
+        prediction = self.model.predict(inputText, verbose=0)
+        predicted_index = numpy.argmax(prediction)
 
+        if (random() < self.generator_randomization):
+            
+            prediction[0][predicted_index] = 0.0
+            predicted_index = numpy.argmax(prediction)
+
+        return predicted_index
+
+
+    def ChooseRandomTextSeed(self):
         seedSequence = self.dataX[randint(0,len(self.dataX))]
         seedText = ""
         for index in seedSequence:
